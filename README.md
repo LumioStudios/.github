@@ -1,2 +1,2 @@
-# We are Lumio Studios!
-You can find out more about us here!
+# We are CytoniaNET!
+Hier kannst du mehr über uns erfahren!
