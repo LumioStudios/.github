@@ -1,7 +1,7 @@
-<h1 align="center">🚀 COMING SOON</h1>
+<h1 align="center">COMING SOON</h1>
 <p align="center">
-  <b>A Next-Generation Hytale Server Project</b><br/>
-  Built with scalability, performance, and long-term vision in mind.
+  <b>A Unique, Custom-Built Hytale Server</b><br/>
+  Focused on quality, longevity, and meaningful gameplay.
 </p>
 
 <p align="center">
@@ -14,72 +14,58 @@
 
 ---
 
-## 📖 About the Project
+## Overview
 
-**COMING SOON** is an ambitious long-term project focused on building a **high-quality Hytale server ecosystem** paired with a modern and efficient web platform.
+**COMING SOON** is a **standalone, uniquely designed Hytale server** developed with a clear long-term vision.  
+The project does not aim to replicate existing servers or networks. Instead, it focuses on delivering a **distinct gameplay experience** built specifically for this server.
 
-The project aims to provide:
-- A **stable and scalable server infrastructure**
-- Carefully designed gameplay systems
-- A **player-focused experience**, both ingame and online
-
-Development follows professional standards inspired by large-scale server networks.
+All systems are developed with consistency, scalability, and maintainability in mind.
 
 ---
 
-## 🧠 Vision & Philosophy
+## Core Concept
 
-- Stability over rushed features  
-- Performance-first architecture  
-- Clean, maintainable systems  
-- Long-term scalability  
+The server is currently based on a **chunk-based gameplay design**, where progression, content, and mechanics are structured around defined world areas.
 
-Every system is designed with future growth in mind.
+Key characteristics include:
+- Structured, area-based progression
+- Purposefully designed content per chunk
+- Emphasis on exploration, progression, and player decision-making
 
----
-
-## 🎮 Gameplay Concept (Current State)
-
-At its current stage, the project is built around a **chunk-based gameplay concept**, featuring:
-- Structured, chunk-oriented world progression
-- Carefully designed and **engaging content per area**
-- A focus on exploration, progression, and replayability
-
-⚠️ **Important:**  
-The project is in **Early Access**.  
-Core mechanics, systems, and gameplay concepts **may change** during development as the project evolves.
-
-More detailed information about gameplay systems, modes, and progression will be shared in future updates.
+This concept represents the current design direction and may evolve as development continues.
 
 ---
 
-## 🚧 Early Access Status
+## Early Access Notice
 
-The server is currently in **Early Access**, meaning:
-- Features are actively being developed and refined
-- Balancing and mechanics are subject to change
-- Content may be added, removed, or reworked
+The server is in **Early Access**.
 
-Early Access exists to build a solid foundation — not a finished product.
+This means:
+- Gameplay mechanics, balance, and content are subject to change
+- Systems may be reworked or replaced
+- Features may be added or removed during development
+
+Early Access is used to refine the core experience and establish a stable foundation for the future.
 
 ---
 
-## 👨‍💻 Team
+## Development Status
 
-- **Lead Developer & Administrator**  
+The project is under **active development**.  
+Focus is currently placed on core systems, gameplay structure, and long-term stability rather than short-term feature quantity.
+
+Further details and public information will be released as the project reaches defined milestones.
+
+---
+
+## Team
+
+- **Founder, Lead Developer & Administrator**  
   [@einfachKaito](https://github.com/einfachKaito)
 
 ---
 
-## 🛠 Ingame Technology Stack
-
-| Technology | Purpose |
-|-----------|---------|
-| **Hytale** | Core server platform with a strong focus on performance and modding |
-
----
-
-## 📬 Contact
+## Contact
 
 - **GitHub:** https://github.com/einfachKaito
 
@@ -88,4 +74,3 @@ Early Access exists to build a solid foundation — not a finished product.
 <p align="center">
   <sub>© 2026 COMING SOON — All rights reserved.</sub>
 </p>
-
