@@ -1,6 +1,6 @@
 <h1 align="center">🚀 COMING SOON</h1>
 <p align="center">
-  <b>A Next-Generation Hytale Server Platform</b><br/>
+  <b>A Next-Generation Hytale Server Project</b><br/>
   Built with scalability, performance, and long-term vision in mind.
 </p>
 
@@ -88,3 +88,4 @@ Early Access exists to build a solid foundation — not a finished product.
 <p align="center">
   <sub>© 2026 COMING SOON — All rights reserved.</sub>
 </p>
+
