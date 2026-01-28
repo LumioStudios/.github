@@ -1,4 +1,4 @@
-<h1 align="center">COMING SOON</h1>
+<h1 align="center">KaldoraNET</h1>
 
 ---
 
@@ -16,6 +16,7 @@
 ---
 
 <p align="center">
-  <sub>© 2026 COMING SOON — All rights reserved.</sub>
+  <sub>© 2026 KaldoraNET — All rights reserved.</sub>
 </p>
+
 
